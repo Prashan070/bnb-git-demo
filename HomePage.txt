@@ -6,6 +6,8 @@ cat > homepage.html << 'EOF'
 </head>
 <body>
     <h1>Welcome to Our Website</h1>
+    <h1>Welcome to Our Awesome Website</h1>
+    <h1>Welcome to Our Amazing Platform</h1>
     <p>This is our homepage</p>
     <footer>Contact us at info@example.com</footer>
 </body>
